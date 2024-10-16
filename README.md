@@ -11,7 +11,7 @@ Features
 
 **Installation**  
 Clone the repository:
-bash
+```bash
 git clone https://github.com/SAISriram19/scene_discriber
 cd scene_discriber
 conda create -n scene_discriber python=3.8
